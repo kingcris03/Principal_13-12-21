@@ -1,0 +1,11 @@
+ 1. Fumar Tabaco
+2. Humo de segunda mano
+3. Exposicion a Radon
+4. Exposicion a Asbesto
+5. Interaccion con Uranio
+6. Tomar suplementos alimenticios
+7. Contaminacion Ambiental
+8. Radioterapia previa a los pulmones
+9. Antecedentes familiares
+10. Fumar marihuana
+11. Cigarros electronicos
